@@ -1,24 +1,24 @@
-# vuex-todo
 
-## Project setup
-```
-npm install
-```
+---
+### VUE TO DO APP
+[Click here for live site.](http://forgetful-arch.surge.sh/) A todo list web application that pulls dummy todo items from JSON placeholder to Vuex store. Tasks can be added, filtered by number, as well as updated as complete. Clone the repo and run "npm install" followed by "npm run serve."
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+---
+### Project Goals
+* Learn Vuex for proper global state management.
+* Learn and implement Vue lifestyle hooks.
+* Practice external API calls through Vue to create todo items.
+* Practice implementing CRUD using store.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+---
+### Technology Used
+* HTML | CSS | Javascript
+* Surge
+* Vue.JS
+* Vuex
+* JSON placeholder
 
-### Lints and fixes files
-```
-npm run lint
-```
+---
+### © 2019 Built By
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Alexander Pham | [GitHub](https://github.com/925work) |  [LinkedIn](https://www.linkedin.com/in/alexanderpham626/)
